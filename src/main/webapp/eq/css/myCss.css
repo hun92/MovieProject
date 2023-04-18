@@ -1,0 +1,253 @@
+@charset "UTF-8";
+
+.genreT{
+	font-family: 'Black Han Sans', sans-serif;
+	text-align: left;
+	width: 1100px;
+	margin-top: 20px;
+}
+
+.Genretb {
+	width: 98%;
+	height: 300px;
+	text-align: center;
+	margin: auto;
+	float: center;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+hr {
+	width: 90%;
+	border: 1.5px gray solid;
+}
+
+.genrepic{
+	text-align: center;
+	height: 180px;
+	border-bottom: 1px black dotted;
+}
+
+.genretitle{
+	height:50px;
+	text-align: center;
+	width: 200px;
+	margin: auto;
+	align:center;
+}
+
+
+.genresmalltb{
+	margin: auto;
+	float: center;
+}
+
+.imgbor{
+	border-radius: 15px;
+}
+
+
+			.maintic{
+			margin-top: 50px;
+				width: 95%;
+			}
+			
+			.maintic td{
+				text-align: center;
+				width: 30%;	
+				height: 80px;
+			}
+			
+			.maintic button{
+				border: none;
+				border-radius: 40px;
+				width: 70%;
+				height: 100%;
+				background: white;
+				box-shadow: 1px 3px 2px gray;
+				transition: all 0.1s linear;
+			}
+			
+		
+		.maintic button:hover {
+			transform: scale(1.1);
+		}
+		
+		
+			
+		
+			.centertb1{
+			width: 98%;
+			height: 400px;
+			text-align: center;
+			margin: auto;
+		}
+		
+		.genrego{
+		border: 1px solid red;
+		width: 210px;
+		height: 250px;
+		border-radius: 15px;
+		transition: all 0.1s linear;
+	}
+	
+	.genrego:hover {
+		transform: scale(1.1);
+		border: 3px solid red;
+	}
+	
+	.gogogo{
+		background-color: red;
+		width: 60px;
+		height: 40px;
+		text-align: center;
+		border-radius: 15px;
+		font-size: 1.5em;
+		font-style: bold;
+		color: white;
+		margin: auto;
+	}
+	
+	.genretitle2{
+		width:99%;
+		height: 60px;
+		text-align: left;
+	}
+	
+	
+	
+		
+		.comut{
+				width : 90%;
+				
+			}
+			
+			.comut a{
+				text-decoration: none;
+			}
+			
+			.comut td{
+				margin-left: 10px;
+				border-bottom: 1px solid gray;
+			}
+		
+		.centertb2{
+			width: 98%;
+			
+			margin-top: 20px;
+			margin-bottom: 150px;
+		}
+		
+		.centertb2 p{
+			text-align: right;
+			color: gray;
+			margin-right: 70px;
+		}
+		
+		
+		
+		.centertb3{
+			width: 98%;
+			text-align: center;
+			margin-top: 100px;
+			margin-bottom: 50px;
+		}
+		
+		
+		
+		a{
+			text-decoration: none;
+			color : black;
+		}
+		
+		hr{
+			width: 90%;
+			border: 1.5px gray solid;
+			
+		}
+		
+		.fonttb{
+			font-size: 0.8em;
+			text-align: left;
+			color: black;
+		}
+		
+		.fonttb h6{
+			margin-top : 10px;
+			font-size: 1.3em;
+			font-weight: bold;
+			color: black;
+		}
+		
+		.hover{
+			width: 220px;
+			overflow: hidden;
+		}
+		
+		.hover img{
+			transition: all 0.1s linear;
+		}
+		
+		.hover:hover img{
+			transform: scale(1.1);
+		}
+		
+		.mpdiv{
+				width : 98%;
+				margin : 100px 0 0 0;
+			}
+			
+			.mptb{
+				border : 1px solid black;
+				width : 60%;
+				height : 300px;
+				float : right;
+				margin : 20px 100px 0px 0px;
+			}
+			
+			.mptb td{
+				border : 1px solid gray;
+				
+			}
+			
+			.profiletb{
+				width : 20%;
+				height : 300px;
+				float : left;
+				border : 3px solid gray;
+				margin : 20px 0px 0px 100px;
+				text-align: center;
+			}
+			
+			
+			.profimg {
+			    width: 200px;
+			    height: 200px; 
+			    border-radius: 70%;
+			    overflow: hidden;
+			    margin: auto;
+			}
+			.profimg img{
+			    width: 100%;
+			    height: 100%;
+			    object-fit: cover;
+			}
+			
+			.btnbtn{
+				margin : auto;
+				width : 200px;
+				height : 500px;
+			}
+			
+			.btnbtn input{
+				margin-top: 10px;
+				width : 150px;
+				height: 40px;
+				background-color: gray;
+			}
+		
+		
+	

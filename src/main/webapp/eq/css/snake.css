@@ -1,0 +1,16 @@
+
+
+#menuTable {border-collapse: collapse; display: inline-block; width: 340px;}
+#menuTable td{width: 170px;}
+#menuTable td button{font-weight: bold; height: 30px; border: 1px solid blue;
+                        width: 70px; background: #5AAFFF; color: white; cursor: pointer;}
+#snakeTable {border-collapse: collapse; display: inline-block;}
+#snakeTable td{border: 1px solid blue; width: 13px; height: 13px;}
+.snake{background-color: #5AAFFF;}
+.food{background-color: #CCCCCC;}
+.center{text-align: center;}
+#controller {border-collapse: collapse; display: inline-block; margin-top: 20px;}
+#controller td{border: none; text-align: center; font-size: 20pt; color: white;}
+.btn_{width: 40px; height: 40px; background: #CCCCCC; /*border-radius: 20px;*/}
+.alignLeft{text-align: left;}
+.alignRight{text-align: right;}
