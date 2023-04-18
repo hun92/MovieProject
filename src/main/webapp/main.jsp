@@ -30,7 +30,7 @@ html, body {
   transition: all .2s ease;
   background-color: gray;
 }
-
+/* ㅁㄴ */
 
 /* MEDIA QUERIES */
 @media (max-width: 700px){
