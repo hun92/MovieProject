@@ -1,4 +1,6 @@
-[ 영화커뮤니티 프로젝트 ] / 팀 프로젝트 구현 ( 6인 ) -사용툴 : eclipse , sqldeveloper 
+ 영화커뮤니티 프로젝트  
+ 
+ 팀 프로젝트 구현 ( 6인 ) -사용툴 : eclipse , sqldeveloper 
 
 * 사용 언어 및 기술 : JAVA , JSP , HTML , JAVASCRIPT , AJAX , JQUERY , CSS , ORACLE , API, JSTL, jsoup, selenium 
 
